@@ -11,5 +11,5 @@
 
 ## rep
 
-* [desc](tema1/desc.md)
-* [desc2](docs/tema1.md)
+ * [desc](tema1/desc.md)
+ * [desc2](docs/tema1.md)
