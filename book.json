@@ -1,5 +1,5 @@
 {
-    "plugins": ["quiz", "exercises","disqus","theme-api","-search","-theme-default"],
+    "plugins": ["quiz", "exercises","disqus","theme-api","-search"],
     "title": "My Book",
     "author": "Greysoft",
     "language": "ru",
