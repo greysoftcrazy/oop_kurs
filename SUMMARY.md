@@ -1,8 +1,8 @@
 # Summary
 
-## aaa
+## О ЭУП
 
-* [Introduction](README.md)
+* [Аннотация](README.md)
 
 ## tems
 
