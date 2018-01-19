@@ -1,3 +1,7 @@
+---
+disqus: false
+---
+
 ## Тесты
 
 <quiz name="Gitbook Quiz">
