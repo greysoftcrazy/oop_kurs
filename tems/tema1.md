@@ -1,6 +1,6 @@
 ---
 
-Here's a quiz about Gitbook
+Here's a qu iz about Gitbook
 
 |                  | Good | Bad |
 | ---------------- | ---- | --- |
