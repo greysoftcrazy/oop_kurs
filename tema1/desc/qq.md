@@ -2,4 +2,4 @@
 disqus: true
 ---
 
-# My Page with disqus
+# My Page wit   h disqus
