@@ -1,4 +1,23 @@
 {
-    "plugins": ["quiz", "exercises"]
+    "plugins": ["quiz", "exercises"],
+
+    "pluginsConfig": {
+        "quiz": {
+                "labels": {
+                    "check"             : "Проверить",
+                    "showExplanation"   : "Подсказка", 
+                    "showCorrect"       : "Показать правильный ответ",   
+                    "explanationHeader" : "Подсказка"
+                },
+                "text": {
+                    "noChosen"    : "Choose at least one answer",  
+                    "incomplete"  : "Some correct answers are missing" 
+                },
+                "buttons": {
+                    "showCorrect"       : true, 
+                    "showExplanation"   : true 
+                }
+        }
+    }
 
 }
