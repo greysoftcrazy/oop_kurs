@@ -1,9 +1,12 @@
 {
-    "plugins": ["quiz", "exercises","-search","theme-api"],
+    "plugins": ["quiz", "exercises","disqus","theme-api","-search"],
     "title": "My Book",
     "author": "Greysoft",
     "language": "ru",
     "pluginsConfig": {
+        "disqus": {
+            "shortName": "greysoft"
+        },
         "theme-api": {
             "theme": "dark"
         },
