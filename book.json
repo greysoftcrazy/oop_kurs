@@ -2,9 +2,7 @@
     "plugins": ["quiz", "exercises"],
     "title": "My Book",
     "author": "Greysoft",
-    "variables": {
-        "language": "ru"
-      },
+    "language": "ru",
     "pluginsConfig": {
         "quiz": {
                 "labels": {
