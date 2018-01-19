@@ -1,5 +1,5 @@
 {
-    "plugins": ["quiz", "exercises"],
+    "plugins": ["quiz", "exercises", "quizzes"],
 
 
 
