@@ -1,5 +1,5 @@
 {
-    "plugins": ["quiz", "exercises","autocover"],
+    "plugins": ["quiz", "exercises"],
     "title": "My Book",
     "author": "Greysoft",
     "variables": {
@@ -21,22 +21,7 @@
                     "showCorrect"       : true, 
                     "showExplanation"   : true 
                 }
-        },
-        "autocover": {
-            "font": {
-                "size": null,
-                "family": "Impact",
-                "color": "#FFF"
-            },
-            "size": {
-                "w": 1800,
-                "h": 2360
-            },
-            "background": {
-                "color": "#09F"
-            }
         }
-
     }
 
 }
