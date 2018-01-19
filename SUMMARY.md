@@ -14,4 +14,3 @@
 * [desc](tema1/desc.md)
   * [qq](tema1/desc/qq.md)
   * [desc2](docs/tema1.md)
-
