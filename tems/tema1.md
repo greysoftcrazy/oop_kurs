@@ -1,4 +1,9 @@
 ---
+layout:    myLayout
+title:	   "myTitle"
+---
+
+---
 
 Here's a quiz about Gitbook
 
