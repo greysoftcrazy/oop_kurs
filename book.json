@@ -1,6 +1,7 @@
 {
-    "plugins": ["quiz", "exercises"],
-
+    "plugins": ["quiz", "exercises","autocover"],
+    "title": "My Book",
+    "author": "Author",
     "pluginsConfig": {
         "quiz": {
                 "labels": {
@@ -17,7 +18,22 @@
                     "showCorrect"       : true, 
                     "showExplanation"   : true 
                 }
+        },
+        "autocover": {
+            "font": {
+                "size": null,
+                "family": "Impact",
+                "color": "#FFF"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": "#09F"
+            }
         }
+
     }
 
 }
