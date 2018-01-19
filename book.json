@@ -1,9 +1,12 @@
 {
-    "plugins": ["quiz", "exercises","-search"],
+    "plugins": ["quiz", "exercises","search","theme-api"],
     "title": "My Book",
     "author": "Greysoft",
     "language": "ru",
     "pluginsConfig": {
+        "theme-api": {
+            "theme": "dark"
+        },
         "quiz": {
                 "labels": {
                     "check"             : "Проверить",
