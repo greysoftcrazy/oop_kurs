@@ -1,6 +1,7 @@
 ---
 search:
     keywords: ['keyword1', 'keyword2', 'etc.']
+disqus: false
 ---
 
 # My Page
