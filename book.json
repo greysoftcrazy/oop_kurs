@@ -1,14 +1,67 @@
 {
-    "plugins": ["quiz", "exercises","disqus","theme-api","-search"],
-    "title": "My Book",
+    "output": null,
+    "generator": "site",
+    "isbn": "",
+    "extension": null,
+    "plugins": [
+        "quiz",
+        "splitter", 
+        "exercises",
+        "disqus",
+        "alerts",
+        "github",
+        "local-video",
+        "copy-code-button",
+        "include-csv",
+        "-highlight",
+        "prism",
+        "prism-themes",
+        "-livereload",
+        "-lunr",
+        "-search",
+        "search-plus",
+        "custom-favicon",
+        "advanced-emoji",
+        "expandable-chapters-small",
+        "anchors",
+        "terminal" 
+    ],
+    "title": "Курс ООП",
     "author": "Greysoft",
+    "description": "Курс объектно-ориентированного программирования",
     "language": "ru",
+    "root": ".",
+    "variables": {},
+    "links": {
+        "sidebar": {
+            "ГПОУ ЮТК": "https://ytk.edu.ru"
+        },
+        "sharing": {
+            "google": null,
+            "facebook": null,
+            "twitter": null,
+            "weibo": null,
+            "all": null
+        }
+    },
     "pluginsConfig": {
+        "fontSettings": {
+            "theme": "sepia",
+            "family": "serif",
+            "size": 2
+        },
+        "github": {
+            "url": "https://github.com/greysoftcrazy/oop_kurs"
+        }, 
+        "favicon": "images/favicon.ico",
+        "appleTouchIconPrecomposed152": "images/apple-touch-icon-precomposed-152.png",
+            "prism": {
+            "css": [
+                "prism-themes/themes/prism-vs.css"
+            ]
+        },
         "disqus": {
             "shortName": "greysoft"
-        },
-        "theme-api": {
-            "theme": "dark"
         },
         "quiz": {
                 "labels": {

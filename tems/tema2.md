@@ -1,6 +1,8 @@
 ---
 disqus: false
 ---
+{% include "../header.md" %}
+
 
 ## Тесты
 
@@ -45,3 +47,5 @@ disqus: false
         </answer>
     </question>
 </quiz>
+
+{% include "../footer.md" %}

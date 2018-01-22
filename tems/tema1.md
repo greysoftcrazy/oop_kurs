@@ -2,6 +2,9 @@
 disqus: false
 ---
 
+
+:boom:
+
 {% exercise %}
 Define a variable `x` equal to 10.
 
@@ -23,3 +26,5 @@ function exposedFunction {
     return 3;
 }
 {% endexercise %}
+
+:smiley:
